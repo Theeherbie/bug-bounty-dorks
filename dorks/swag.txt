@@ -1,0 +1,4 @@
+inurl:/responsible-disclosure/ swag
+inurl:/responsible-disclosure/ hoodie
+intext:"vulnerability disclosure" swag
+intext:"security researcher" swag
