@@ -1,5 +1,0 @@
-security.txt
-/.well-known/security
-security-policy.txt
-mailto
-PGP
