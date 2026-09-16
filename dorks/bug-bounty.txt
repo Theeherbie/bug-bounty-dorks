@@ -1,0 +1,7 @@
+inurl:"bug bounty"
+inurl:bug-bounty
+inurl:bugbounty
+inurl:/bug inurl:/bounty
+intext:bounty inurl:/security
+"we run a bug bounty program"
+"Bug Bounty" "Security Rewards"
