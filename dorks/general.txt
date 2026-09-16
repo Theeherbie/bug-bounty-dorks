@@ -1,0 +1,7 @@
+inurl:/security
+inurl:"security report"
+intext:"we take security very seriously"
+intext:"submit vulnerability report"
+"If you believe you've found a security vulnerability"
+"If you find a security issue"
+intext:"vulnerability reporting policy" 
