@@ -1,0 +1,5 @@
+site:*.edu
+university
+security report
+vulnerability disclosure
+bug bounty
