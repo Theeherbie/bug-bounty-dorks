@@ -1,0 +1,10 @@
+site:*.nl
+site:*.uk
+site:*.eu
+site:*.de
+site:*.fr
+site:*.it
+site:*.jp
+site:*.ca
+site:*.au
+...
