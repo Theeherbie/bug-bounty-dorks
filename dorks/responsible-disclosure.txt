@@ -1,0 +1,7 @@
+inurl:/responsible-disclosure
+inurl:/responsible-disclosure/
+inurl:responsible-disclosure-policy
+"responsible disclosure"
+intext:"responsible disclosure"
+"responsible disclosure" reward
+"responsible disclosure" bounty
